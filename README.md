@@ -1,3 +1,4 @@
+<img src= "scholarboard_logo.png" width = 150 height = 150></img>
 # Scholarboard
 
 
