@@ -6,6 +6,7 @@ Schlarboard is an online tool that matches students with scholarships around the
 
 
 ## Why we built it
+...
 
 ## The Dev Team
 
@@ -22,4 +23,16 @@ Schlarboard is an online tool that matches students with scholarships around the
 * <a href="https://github.com/scholarship-dev/design">Scholarboard Design</a>
 
 
-## File Structure
+## Technologies
+
+* Node.JS
+* Express.JS
+* MongoDB
+* Javascript
+* React
+* CSS
+* Swift
+* Xcode
+* Git & Github
+* Trello
+
