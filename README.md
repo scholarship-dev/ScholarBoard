@@ -6,9 +6,6 @@
 Schlarboard is an online tool that matches students with scholarships around the web based on their profile.
 
 
-## Why we built it
-...
-
 ## The Dev Team
 
 * <a href="https://github.com/will0101">Williams Bongans</a> - Front End Lead & UI/UX Engineer
