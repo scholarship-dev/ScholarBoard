@@ -3,7 +3,7 @@
 
 
 ## Overview 
-Schlarboard is an online tool that matches students with scholarships around the web based on their profile.
+Schlarboard is an online tool that matches students with scholarships around the web based on their profile. The live product can be found <a href="https://scholar-board.herokuapp.com/">here</a>
 
 
 ## The Dev Team
