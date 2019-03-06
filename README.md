@@ -8,7 +8,7 @@ Schlarboard is an online tool that matches students with scholarships around the
 
 ## How it works
 
-<img scr="how_it_works.png" width = 200 height = 200></img>
+<img scr= "how_it_works.png" width = 500 height = 500></img>
 
 ## The Dev Team
 
