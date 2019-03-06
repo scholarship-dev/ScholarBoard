@@ -6,6 +6,10 @@
 Schlarboard is an online tool that matches students with scholarships around the web based on their profile. The live product can be found <a href="https://scholar-board.herokuapp.com/">here</a>
 
 
+## How it works
+
+<img scr="how_it_works.png" width = 200 height = 200></img>
+
 ## The Dev Team
 
 * <a href="https://github.com/will0101">Williams Bongans</a> - Front End Lead & UI/UX Engineer
