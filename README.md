@@ -8,7 +8,7 @@ Schlarboard is an online tool that matches students with scholarships around the
 
 ## How it works
 
-![How it works](scholarboard_logo.png)
+![How it works](how_it_works.png)
 ## The Dev Team
 
 * <a href="https://github.com/will0101">Williams Bongans</a> - Front End Lead & UI/UX Engineer
